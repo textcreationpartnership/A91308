@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true good old cause rightly stated, and the false un-cased.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91308</idno>
+            <idno type="STC">Wing P4114</idno>
+            <idno type="STC">Thomason E983_6*</idno>
+            <idno type="STC">ESTC R203347</idno>
+            <idno type="EEBO-CITATION">99863322</idno>
+            <idno type="PROQUEST">99863322</idno>
+            <idno type="VID">115514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91308)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115514)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[6*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true good old cause rightly stated, and the false un-cased.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By William Prynne, cf. Thomason.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "I believe by Mr Prim April 30. 1659.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:115514:1" rendition="simple:additions"/>
+            <head>The true <hi>Good Old Cauſe</hi> rightly ſtated, and the <hi>Falſe</hi> un-caſed.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the <note n="a" place="margin">Ioſh. 9. 3. &amp;c.</note> 
+               <hi>wilely Gibeonites</hi> attempted to circum<g ref="char:EOLhyphen"/>vent <hi>Ioſhuah</hi> and the <hi>Iſraelites,</hi> and draw them into a <hi>League with them,</hi> againſt <note n="b" place="margin">Exod. 23 31, 32. c. 34. 12. Deut. 7. 2, 3.</note> 
+               <hi>Gods expreſs inhibition,</hi> they accompliſhed their deſign with <note place="margin">(c) Peter Moulin his Nouveaute du Papiſme op<g ref="char:EOLhyphen"/>poſe à anti-quitè du Vray Chriſtianiſme, Sedan 1627. Biſhop Vſhers anſwer to the Ieſuites chal<g ref="char:EOLhyphen"/>lenge.</note> this Stratageme, <hi>by carrying along with them, old Sacks, old rent Wine-bottles, old Shooes and Garments, and old dry mouldy bread and proviſions to the Iſraelites Camp at</hi> Gilgal; which they alleged <hi>were all new on the day they came forth from their Country, but were all become old by reaſon of their very far journy, which they believing, without examination, were inſuared by them.</hi>
+            </p>
+            <p>This policy hath for many years paſt been purſued by <hi>Ie<g ref="char:EOLhyphen"/>ſuites</hi> and other <hi>Gibeonites</hi> of <hi>Rome,</hi> to circumvent <hi>over-credu<g ref="char:EOLhyphen"/>lous Proteſtants</hi> to enter into a <hi>holy League</hi> with them to the ſhipwrack of their <hi>Faith</hi> and <hi>Souls,</hi> by crying up their <note n="d" place="margin">The Au<g ref="char:EOLhyphen"/>thor of the Proteſtant Religion. London 1621. Kelliſons ſur<g ref="char:EOLhyphen"/>vey of the New Religi<g ref="char:EOLhyphen"/>on. Doway 1603.</note> 
+               <hi>new Superſtitions, Reliques, Errors,</hi> for the <hi>only old Religion,</hi> and decrying the <hi>antient Proteſtant Religion</hi> as a late <hi>Novelty</hi> firſt broached by <hi>Luther</hi> and <hi>Calvin.</hi> Whether this be not the preſent ſtratageme of ſome of their <hi>Instruments,</hi> or <hi>Fraternity,</hi> to engage the <hi>Souldiers</hi> to joyn in a new confederacy with them, to bring our old Religion, Government, Parliaments, Laws, liberties to ſpeedy <hi>deſolation,</hi> &amp; irecoverable deſtruction, under the diſguiſe of <hi>maintaining the good</hi> 
+               <note n="*" place="margin">If they mean by this Good Old Cauſe, their New Common<g ref="char:EOLhyphen"/>wealth, it was begotten but in March, 1648. had pre<g ref="char:EOLhyphen"/>ſently un<g ref="char:EOLhyphen"/>known Guar<g ref="char:EOLhyphen"/>dians and Go<g ref="char:EOLhyphen"/>vernors ſet o<g ref="char:EOLhyphen"/>ver it till 1653 then a new Protector, un<g ref="char:EOLhyphen"/>der whoſe wardſhip it ſtill continues as an Infant, but of ten years birth, and if he be removed, it muſt be in ward to the Army Officers till its full age. How then can they call it Old, or the Good Old Man or Cauſe, without a contradiction and abſurdity?</note> 
+               <hi>old Cauſe,</hi> is not unworthy their <hi>ſtricteſt inquiſition</hi> and moſt <hi>ſerious conſideration,</hi> which will be evidently demonſtrated to them by diſcovering the only <hi>true original Good Old Cauſe,</hi> Grounds, Ends, draw<g ref="char:EOLhyphen"/>ing the Houſes of Parliament to raiſe and continue the <hi>Armies</hi> under their ſucceſsive <hi>Generals;</hi> moſt clearly, fully, and truly expreſſed in their own <hi>Votes, Orders, Ordinances, Declarations</hi> year after year, printed at large in two diſtinct <hi>Volumes</hi> for <hi>Edward Husbands</hi> 1643. and 1646. <hi>by order of the Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament;</hi> which being almoſt quite forgotten, it will be both ſeaſonable and neceſſary to refreſh the memo<g ref="char:EOLhyphen"/>ries, and awaken the ſtupid, if not ſeared Conſciences of the Nation, with a recital of the chiefeſt of them, to countermine the <hi>new</hi> plots of all ſeducing <hi>Gibeonites.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:115514:2"/>
+The firſt <hi>Original</hi> of the unhappy breach between the late <hi>King</hi> and our long <hi>Parliament,</hi> was his <note n="e" place="margin">Exact Collection, p. 34. 35, 36, &amp;c. 59, 60, 61, 66, 67, &amp;c.</note> 
+               <hi>comming perſonally into the Commons Houſe to demand the five Members,</hi> 4 <hi>Ianuary</hi> 1641. whom the day before he <hi>had impeacbed of High Treaſon, and ſent a Sergeant at Arms to apprehend:</hi> This breach of <hi>Privilege</hi> indu<g ref="char:EOLhyphen"/>ced the Houſes to require the power of the <hi>Militia to be at their diſpoſal,</hi> for the ſafeguard of their <hi>Perſons</hi> and <hi>Privileges:</hi> which being denyed by the King, who condeſcended to it ve<g ref="char:EOLhyphen"/>ry far, but not in that latitude as demanded; ſoon after the King departing from the Parliament, and ſetting on foot the <hi>Commiſsion of Array</hi> for his defence againſt the Parliament, and the Parliament raifing the <hi>Militia</hi> for their ſafeguard a<g ref="char:EOLhyphen"/>gainſt the King, this firſt engaged them by degrees in a <hi>civil bloody war</hi> againſt each other, ending in their mutual deſtru<g ref="char:EOLhyphen"/>ction by the very new <hi>Militia</hi> they conteſted for, as their only ſecurity againſt each other.</p>
+            <p>The ſole <hi>Cauſe,</hi> Grounds, Ends of the Parliaments rayſing the <hi>Militia,</hi> and after that an Army, are thus fully declared by the <hi>Lords</hi> and <hi>Commons,</hi> in their <hi>Propoſitions</hi> for bringing in <hi>Plate and Mony, Horſe, Horſemen, and Arms for the defence of the King and both Houſes of Parliament,</hi> printed and publiſhed by order of the <hi>Lords</hi> and <hi>Commons,</hi> 10 Junii 1642. <hi>Whereas it appears the King, (ſeduced by wicked Counſel) intends to make war against his</hi> Parl. <hi>and in purſuance therof, under pretence of</hi> 
+               <note place="margin">(f) Exact Collection, p. 339, 340, 342.</note> 
+               <hi>rayſing a Guard for his perſon, hath actually begun to levy forces both horſe and foot, &amp;c. ſo as the orders of Parliament, which is the highest Court of Iuſtice in this Realm, are not obeyed, and the authority there<g ref="char:EOLhyphen"/>of is altogether ſcorned and vilified, and ſuch perſons as ſtand well-af<g ref="char:EOLhyphen"/>fected to it, &amp; declare themſelves ſenſible of theſe publike calamities, and of the violations of the Privileges of Parliament, and common li<g ref="char:EOLhyphen"/>berty of the ſubjects, are bafſled and injured by ſeveral ſorts of malig<g ref="char:EOLhyphen"/>nant men who are about the King; ſome whereof, under the name of</hi> 
+               <note n="*" place="margin">The true de<g ref="char:EOLhyphen"/>ſcription of a Cavalier: which ſome who moſt condemned them, have now actually drawn upon themſelves in overthrow<g ref="char:EOLhyphen"/>ing the Parli<g ref="char:EOLhyphen"/>ament by force.</note> 
+               <hi>Cavaliers, without having reſpect to the Lawes of the Land, or any fear either of God, or man, are ready to commit all manner of outrage and violence, which muſt needs tend to the diſſolution of this Govern<g ref="char:EOLhyphen"/>ment, the deſtroying of our Religion, Laws, Liberty and property; all which muſt be expoſed to the malice and violence of ſuch deſperate perſons as muſt he imployed in ſo horrid and unnatural an act, as the overthrowing of a Parliament by force, which is the ſupport and preſervation of them.</hi> All which <hi>being duly conſidered by the Lords and Commons, and how great an obligation lies
+<pb n="3" facs="tcp:115514:2"/>
+upon them, in honor, conſcience and duty, according to the high truſt repoſed in them, to uſe all poſſible means in ſuch caſe, for the timely pre<g ref="char:EOLhyphen"/>vention of ſo great and irrecoverable evils; they have thought fit to publiſh their ſenſe and apprehenſion of this imminent danger, thereby to excite all well-affected perſons to contribute their beſt aſſiſtance, ac<g ref="char:EOLhyphen"/>cording to their Solemn Vow and Proteſtation, to the preparations ne<g ref="char:EOLhyphen"/>ceſſary for the oppoſing and ſuppreſſing of the trayterous Attempts of thoſe wicked and malignant Counſellors, who ſeek to engage the King in ſo wicked and destructive an Enterpriſe, and to deſtroy the Pri<g ref="char:EOLhyphen"/>vileges and Being of Parliaments.</hi>
+            </p>
+            <p n="1">1. <hi>They the ſaid Lords and Commons doe declare;</hi> That whoſo<g ref="char:EOLhyphen"/>ever ſhall bring in any proportion of Money or Plate, or ſhall underwrite to furniſh or maintain any number of Horſe Horſemen, or Arms, for the preſervation of the publike peace, and for the defence of the <hi>King, and both Houſes of Parla<g ref="char:EOLhyphen"/>ment from Force and Violence, and to uphold the Power and Privileges of Parliament,</hi> according to his Proteſtati<g ref="char:EOLhyphen"/>on: it ſhall be held a good and acceptable Service to the Commonwealth, and a Teſtimony of his good affection to the Proteſtant Religion<g ref="char:punc">▪</g> the Laws, Liberties and Peace of this kingdom<g ref="char:punc">▪</g> and <hi>to the Parliament and Privileges therof.</hi>
+            </p>
+            <p>
+               <hi>And laſtly it is declared,</hi> That whatſoever is brought in ſhall not at all be imployed upon <hi>any other occaſion,</hi> than to the purpoſes aforeſaid, <hi>which are;</hi> To maintain the Proteſtant Religion, the Kings authority, and his perſon in his Royal Dignity, the free courſe of Juſtice, <hi>the Laws of the Land, the Peace of the Kingdom, and the Privileges of Parliament, againſt any force that ſhall oppoſe them:</hi> And this by direc<g ref="char:EOLhyphen"/>tion of <hi>Both Houſes of Parliament.</hi>
+            </p>
+            <p>Here you have the <hi>Good Old Cauſe</hi> truly, clearly and fully ſtated by both Houſes of Parliament in every particular branch thereof, when they firſt engaged themſelves, all the well-affected people of the kingdom, and Army in it, as they publiſhed to all the world in theſe their Propoſitions. Which how diametrically contrary it is in every branch to the miſ<g ref="char:EOLhyphen"/>ſtaken <hi>Good old cauſe,</hi> now cried up and proſecuted with an high hand, &amp; to the late practiſes, proceedings, counſels, papers, deſigns of thoſe, who were firſt raiſed, commiſſioned by the Parliament for its juſt defence, yet are at laſt degenerated into the greateſt Apoſtates from, and violenteſt enemies againſt it;
+<pb n="4" facs="tcp:115514:3"/>
+their own conſciences can beſt reſolve, and the blindeſt eyes moſt clearly diſcern.</p>
+            <p>Theſe <hi>Propoſitions</hi> were ſeconded with a <note n="g" place="margin">Exact Col<g ref="char:EOLhyphen"/>lection, p. 456, 457.</note> 
+               <hi>Declaration</hi> of the Lords and Commons to the ſame effect, printed and pub<g ref="char:EOLhyphen"/>liſhed by their <hi>Order,</hi> 5 <hi>Iulii</hi> 1642. in purſuance whereof <hi>Iuly</hi> 12. the Commons Houſe paſſed and publiſhed theſe Votes: <note n="*" place="margin">And by an Ordinance of both Houſes, 14 Martii 1642. A Col<g ref="char:EOLhyphen"/>lection of Or<g ref="char:EOLhyphen"/>dinances, p. 8.</note> 
+               <hi>Reſolved upon the Queſtion,</hi> That an <hi>Army</hi> ſhall be forthwith rai<g ref="char:EOLhyphen"/>ſed, for the ſafety of the Kings Perſon, <hi>the Defence of Both Houſes of Parliament, and of thoſe who have obeyed their Orders and commands, and preſerving of the true Religion, the Laws, Liber<g ref="char:EOLhyphen"/>ty and Peace of the Kingdom: That the Earl of</hi> Eſſex <hi>ſhall be the General: That in this Cauſe, for the Safety of the Kings perſon, defence of both Houſes of Parliament, and of thoſe who have obeyed their Orders and commands, and preſerving of the true Religion, the Laws, Liberty and Peace of the kingdom, they will live and die with the Earl of Eſſex, whom they have nominated General in this Cauſe. That a Petition ſhould be framed, to move his Majeſty to a good accord with his Parliament, to prevent a civil War.</hi> Which Petition and Votes were preſented to the <hi>Lords;</hi> who returned Anſwer; <hi>They did concur with the Houſe of Commons, in omnibus.</hi>
+            </p>
+            <p>After this the Lords and Commons in their <hi>(b) Ordinances</hi> of 14 <hi>Martii</hi> 1642. and 3 <hi>Auguſt</hi> 1643. for the ſpeedy raiſing <note n="h" place="margin">Exact Col. p. 932. An Appendix, p. 4.</note> and levying of money for the maintenance of the Army raiſed by the Parliament, and ſundry other Ordinances, whiles the Earl of <hi>Eſſex</hi> was General, did declare; <hi>That the only Cauſes for which they have raiſed and do continue an Army and forces, are the neceſsary defence of the true Proteſtant Religion, of themſelves and the Parliament from violence and destruction, of this kingdom from forein Invaſion,</hi> and bringing notorious offendors to condign puniſhment, the preſervation of the Laws and Liberties of this kingdom, and the Kings perſon. And the <note n="i" place="margin">A Collect. p. 43, 44.</note> Earl of <hi>Eſſex</hi> himſelf, in his <hi>Proclamation</hi> to prevent plundering, the 24. of <hi>April</hi> 1643. as he ſtiles himſelf, <hi>Captain General of the Army, raiſed and imployed for the defence of the Proteſtant Religion, King, Parliament and Kingdom;</hi> So he declares, <hi>That this Army is raiſed for the defence of the King, Parliament, and kingdom, the preſervation of Gods true Religion, and the juſt rights and liberties of the Subjects from violence and oppreſſion.</hi>
+            </p>
+            <p>The year next following, when the Scotiſh forces were called and brought in for our <hi>aſsiſtance</hi> to joyn with the Eng<g ref="char:EOLhyphen"/>liſh
+<pb n="5" facs="tcp:115514:3"/>
+Army and Forces; the <hi>ſelf ſame Good Old Cauſe in every</hi> branch <hi>thereof was avowed</hi> and eſpouſed by them, and no o<g ref="char:EOLhyphen"/>ther, as both <hi>Houſes of Parliament</hi> and the <hi>Scots</hi> themſelves de<g ref="char:EOLhyphen"/>clared to all the world in <note n="k" place="margin">A Collecti- of Ordinances p. 305, 308, 313, 327, 363 371, 416, 418, 420, &amp;c. 424, 425, &amp;c.</note> 
+               <hi>ſeveral printed Ordinances, Declara<g ref="char:EOLhyphen"/>tions, Remonſtrances,</hi> and in the <hi>Solemn league and Covenant,</hi> which the Officers and Souldiers of both Armies, as well as Members of the Parliaments of both <hi>Kingdoms,</hi> and all well-affected perſons in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> generally ſubſcribed in a moſt chearfull, publick, and ſacred manner: yea <note n="*" place="margin">A Collection p. 426.</note> 
+               <hi>Oliver Cromwell</hi> himſelf (both as a Member and Lieute<g ref="char:EOLhyphen"/>nant <hi>General)</hi> being the 40th. <hi>Member</hi> who ſubſcribed it.</p>
+            <p>The command of the Parliaments forces and Army, being afterwards tranſlated from the Earl of <hi>Eſsex</hi> to Sir <hi>Thomas Fairfax,</hi> by an <note n="l" place="margin">A Colle<g ref="char:EOLhyphen"/>ction p. 598. 606.</note> 
+               <hi>Ordinance</hi> of the <hi>Lords</hi> and <hi>Commons</hi> in Parlia<g ref="char:EOLhyphen"/>ment, 15 <hi>Febr.</hi> 1644. <hi>for rayſing and maintaining the forces under his command:</hi> both Houſes ordained, <hi>That there be forthwith rayſed and armed for the</hi> defence of the King and Parliament, the true Proteſtant Religion, and the Laws and Liberties of the Kingdom,, an <hi>Army</hi> conſiſting of 6600 Horſe, 4000 Dragooners, and 14400 Foot, <hi>under the immediate command of Sir</hi> Thomas Fairfax <hi>Knight, who is hereby conſtituted</hi> Command<g ref="char:EOLhyphen"/>er in chief <hi>of all the forces rayſed by this Ordinance, and ſhall from time to time be ſubject to ſuch Orders and Directions as he ſhall receive from time to time from both Houſes of Parliament, or from the Committee of both Kingdoms. And it is further provided by this</hi> Ordinance, <hi>that all Commanders and Officers that ſhall be imployed in this</hi> Army, <hi>and to be approved by both Houſes of Par<g ref="char:EOLhyphen"/>liament, and all the common Souldiers of this</hi> Army <hi>ſhall take the</hi> National League and Covenant of both Kingdoms, <hi>within</hi> 20 <hi>dayes after they be listed in the ſaid Army; and that all ſuch who ſhall refuſe the ſaid</hi> Solemn League and Covenant, <hi>ſhall upon ſuch their refuſal be diſplaced, and ſhall not be admitted into any Office or command in the ſaid</hi> Army, <hi>untill they ſhall have taken the ſaid</hi> Solemn League and Covenant, <hi>in ſuch form as</hi> is there preſcri<g ref="char:EOLhyphen"/>bed, <hi>and ſuch their conformity approved of by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment.</hi> In the <note n="m" place="margin">A Col<g ref="char:EOLhyphen"/>lection p. 623.</note> 
+               <hi>Ordinance</hi> of the <hi>Lords</hi> and <hi>Commons</hi> aſſembled in <hi>Parliament,</hi> for the ſpeedy rayſing and impreſſing of men for the recruiting the forces under the command of Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax,</hi> 27 <hi>Febr,</hi> 1644. They declared, <hi>Foraſmuch as the true Protestant Religion, the Laws and Liberties of the Subject were in danger to be ſubverted, Idolatry,</hi> and <hi>tyranny, like to be introdu<g ref="char:EOLhyphen"/>ced by the force and power of ſeveral armies rayſed by pretence of the Kings
+<pb n="6" facs="tcp:115514:4"/>
+authority, &amp;c. Be it</hi> therefore <hi>ordained by the</hi> Lords <hi>and</hi> Commons <hi>aſſembled in</hi> Parliament, <hi>That the Committee of the</hi> Militia <hi>for the City of</hi> London, <hi>the Deputy Lieutenants and Committees of</hi> Parlia<g ref="char:EOLhyphen"/>ment <hi>in every County, City, or place within the Realm, ſhall from time to time rayſe, leavy, and impreſt ſuch number of</hi> Souldiers, Gunners, and Chyrurgeons, <hi>for the defence of the King, Parliament, and Kingdom as ſhall be appointed by both Houſes of Parliament, the Committee of both Kingdoms, or by Sir</hi> Thomas Fairfax. The like re<g ref="char:EOLhyphen"/>citals of this Good Old Cauſe, and ends for which <hi>this Army</hi> un<g ref="char:EOLhyphen"/>der him and others was raiſed, are uſed in <note n="n" place="margin">A Colle<g ref="char:EOLhyphen"/>ction, p. 666, 667, 668, 669.</note> other Ordinances, If this be not ſufficient evidence, that Sir <hi>Thomas Fairfax,</hi> and the General <hi>Counſel</hi> of the <hi>Officers</hi> and <hi>Army</hi> under him took up Arms, and engaged only for this <hi>Good Old Cauſe</hi> and ends, and none elſe, thus declared by both Houſes of <hi>Parliament,</hi> the very title of their ſeveral <hi>Remonſtrances,</hi> and Declarations penned by themſelves, printed by their own order in one Collection, <hi>London</hi> 1647 will reſolve the world, themlelves, and all other Souldiers ſince in<g ref="char:EOLhyphen"/>corporated into the Army paſt all contradiction, being thus in<g ref="char:EOLhyphen"/>tituled, <hi>A Declaration of the Engagements, Remonſtrances, Repreſentati<g ref="char:EOLhyphen"/>ons, Propoſals, Deſires, and Refolutions from his Excellency</hi> Sir Tho. Fairfax <hi>and the</hi> General Councel of the Army, <hi>for ſetling his Majeſty in his juſt Rights, the Parliament in their juſt Privileges, and the Subject in their liberties and freedoms.</hi> Alſo Repreſenta<g ref="char:EOLhyphen"/>tions of the Grievances of the <hi>Kingdom,</hi> and <hi>remedies propounded for removing the preſent preſſures</hi> (by Taxes and Exciſes): <hi>And the reſolution of the Army, for the eſtab<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſhing of a firm and laſting peace, in Church and Kingdom.</hi> This being the Title, ſum of all their <hi>Engagements, Remonſtrances, Repreſentations, Propoſals, Reſolutions,</hi> it is ſuperfluous to recite all the particular paſſages in them tending to theſe ends: only it will not be unſeaſonable to remind them of this one paſſage in their <hi>Declaration</hi> of <hi>Septenber</hi> 9. 1647. concerning the <hi>fundamental authority and government of the Kingdom,</hi> p. 250. <hi>VVhereas a Member of the</hi> General Councel of this Army hath pub<g ref="char:EOLhyphen"/>lickly declared and expreſſed himſelf, That <hi>there is no viſible au<g ref="char:EOLhyphen"/>thority in the Kingdom but the power and force of the Sword,</hi> (the only <hi>Good Old Cauſe</hi> now cryed up <hi>by</hi> ſome in deeds if not in words) <hi>we therefore the ſaid</hi> General Counſell, to teſtifie <hi>how far our hearts and minds are from any deſign of ſetting up the</hi> 
+               <note place="margin">Nota.</note> 
+               <hi>power of the Sword above or againſt the authority &amp; govern<g ref="char:EOLhyphen"/>ment of the Kingdom, and our readineſs to maintain and uphold the ſaid Adthority, have by a free Vote in the ſaid</hi> Counſel, <hi>(no man contradicting) judged the ſaid</hi> Member <hi>to be expelled the ſaid Councel, which</hi> we <hi>hereby thought fit to publiſh as a clear mani<g ref="char:EOLhyphen"/>feſtation of our diſlike and diſavowing ſuch Principles or practices</hi> (yet now revived, practiſed.)</p>
+            <p>This being the right State of the true <hi>Good Old cauſe,</hi> and only ends
+<pb facs="tcp:115514:4"/>
+for which all the Forces, Armies, under the <hi>forenamed</hi> or any other <hi>Generals</hi> ſince, were firſt raiſed, Commiſſioned, and hitherto maintained, continued, at the peoples vaſt expence, as both Houſes of <hi>Parliament;</hi> the Kingdomes, Parliaments of <hi>England, Scotland,</hi> the <hi>Generals, Officers,</hi> and <hi>General Councils of the Army</hi> themſelves, have thus from time to time remonſtrated in print to all the world, yea ratified <hi>by the Protestation,</hi> 
+               <note n="o" place="margin">A Collection p. 203, 204, 205, 425, 426, 427.</note> 
+               <hi>the ſacred Vow and Covenant, the Natio<g ref="char:EOLhyphen"/>nal League and Covenant,</hi> with otherſacred <hi>Oaths</hi> and <hi>Obligations,</hi> ob<g ref="char:EOLhyphen"/>liging them faithfully, conſtantly, and ſyncerely to defend, <hi>maintain &amp; perſevere therein all the dayes of their lives;</hi> and <hi>to promote the ſame to their power againſt all Oppoſitions, Lets and Impediments whatſoever ac<g ref="char:EOLhyphen"/>cording to their power, without ſuffering themſelves directly or indirectly by whatſoever combination, perſwaſion or terror, to be divided, withdrawn or make defection from the ſame.</hi> Which <hi>Covenants, Vows, Protesta<g ref="char:EOLhyphen"/>tions,</hi> they profeſſed they all made <hi>in the preſence of Almighty God, the ſearcher of all hearts, with a true intention to perform the ſame.</hi>
+            </p>
+            <p>If there be any other Cauſe now or lately eſpouſed by any Mem<g ref="char:EOLhyphen"/>bers of <hi>Parliament, Officers, Soldiers, Engliſh, Scots, Iriſh,</hi> of what ever condition, Sect, or party, inconſiſtent with, or <hi>repugnant, destructive</hi> to this <hi>good old Cauſe,</hi> or any branch thereof; it cannot without an apparent contradiction, abſurdity, &amp; falſhood, be ſtiled; either <hi>A Good</hi> or <hi>Old,</hi> much leſs, <hi>The Good Old Cauſe,</hi> for which the Parliament, Army, Soldiers, kingdom, or any others ad<g ref="char:EOLhyphen"/>hering to them, firſt took up arms, and ſo long engaged in; but ra<g ref="char:EOLhyphen"/>ther a <hi>Bad,</hi> a <hi>New</hi> unrighteous <hi>Cauſe, or Gunpowder-plot,</hi> ori<g ref="char:EOLhyphen"/>ginally contrived and ſecretly fomented by <hi>Popiſh Emiſsaries, Jeſuits,</hi> &amp; their ſeduced Diſciples: Or a <hi>Good cauſe,</hi> only as <hi>VVar</hi> is ſtiled <hi>good,</hi> 
+               <note n="p" place="margin">Cicero, Cale<g ref="char:EOLhyphen"/>pine, Holioke, Tit. Bellum.</note> 
+               <hi>Bellum,</hi> quaſi <hi>Belluinum,</hi> or <hi>minime Bonum:</hi> And <hi>Old</hi> only in theſe reſpects, (if conſcientiouſly examined by any who ſhall either pro<g ref="char:EOLhyphen"/>mote or engage in it) Becauſe it proceeds originally from the <note n="q" place="margin">Rev. 12. 9. c. 20. 2. John 8. 44.</note> 
+               <hi>Old Serpent,</hi> and <hi>Dragon, the Devil,</hi> (a ſeducer, lyar, <hi>murderer from the beginning; the spirit who</hi> 
+               <note n="r" place="margin">Eph. 2. 1, 2, 3.</note> 
+               <hi>now rules in the Children of Diſo<g ref="char:EOLhyphen"/>bedience,</hi> to engage them in this cauſe:) Becauſe it ſuits with, and proceeds, iſſues from the <note n="ſ" place="margin">Epheſ. 4. 22. 22. Rom. 6. 6. Col. 3. 9.</note> 
+               <hi>Old man, which is corrupt according to the deceitfull luſts, which they have not yet crucified, nor put off with his deeds,</hi> after all their <hi>Fastings,</hi> Humiliations, Prayers; Becauſe it ſtrongly reliſheth of the <note n="t" place="margin">1 Cor. 5. 7, 8.</note> 
+               <hi>Old leven of malice and wickedneſs,</hi> which <hi>they have not yet purged out, that they might be a new lump,</hi> and is car<g ref="char:EOLhyphen"/>ried on <hi>with a despitefull and revengefull heart, (to deſtroy,</hi> whatever they formerly engaged to preſerve as the true <hi>good old cauſe) becauſe of the</hi> 
+               <note n="u" place="margin">Ezek. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. 15.</note> 
+               <hi>Old Hatred:</hi> Becauſe they perceive, that this new preten<g ref="char:EOLhyphen"/>ded <hi>good Cauſe</hi> they have ſet up and purſued, <hi>now decayeth, and waxeth</hi> 
+               <note n="x" place="margin">Heb. 8. 13.</note> 
+               <hi>Old, and is ready to vaniſh away;</hi> unleſs they put all their might, and the ſtrength of the whole <hi>Army</hi> to ſupport it. Becauſe, it is <hi>the</hi> 
+               <note n="y" place="margin">Job 22. 15, 16.</note> 
+               <hi>old Way which wicked men,</hi> (the old Gunpowder Traitors) have <hi>for<g ref="char:EOLhyphen"/>merly trodden; which were cut down out of time; whoſe foundation was overflown with a floud:</hi> Or finally, becauſe it was firſt ſet on foot and promoted, <note n="z" place="margin">Jude 4.</note> 
+               <hi>by certain men crept in unawares</hi> (into the Army and
+<pb facs="tcp:115514:5"/>
+Nation from Jeſuitical Seminaries, &amp; <hi>J. Leydons) who were before o<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Old ordained to this condemnatio<g ref="char:cmbAbbrStroke">̄</g>; ungodly men, turning the grace of our God into laſciviouſneſs, and denying the only Lord God, and our Lord Jeſus Chriſt at lestwiſe in their works,</hi> (as <hi>Jude</hi> and <hi>Paul</hi> inform us by an unerring divine Spirit) <note n="a" place="margin">Titus 1. 16.</note> 
+               <hi>being abominable, Diſobedient</hi> (to all their lawfull Superiors, and Parliaments themſelves) <hi>and to every good work reprobate;</hi> Yea, <note n="b" place="margin">2 Tim. 4. 1, 2, 3, 4, 5, 6.</note> 
+               <hi>lovers of their own ſelves, covetous, proud, boasters, blasphemers, diſobedient to parents, unthankfull, unboly, with<g ref="char:EOLhyphen"/>out natural affection, Truce-breakers, falſe accuſers, incontinent, fierce, despiſers of thoſe that are good, Traytors, heady, high-minded, lovers of pleaſures more than lovers of God: Having a form of godlineſs, but deny<g ref="char:EOLhyphen"/>ing the power thereof:</hi> who have made <hi>theſe laſt dayes of ours perillous times,</hi> as St. <hi>Paul</hi> of old predicted. If then the falſe good OLD CAUSE lately and now cried up and proſecuted, upon ſerious Inquiſition of any already engaged, or ſollicited to engage therein, ſhall upon <note n="c" place="margin">De Conſide<g ref="char:EOLhyphen"/>ratione, lib. 1.</note> St. <hi>Bernards</hi> three<g ref="char:EOLhyphen"/>fold inquiry, <hi>An liceat, an deceat, an expediat</hi> (which every Chriſtian ought to make into every Action, before he undertake it) clearly appear to be the <hi>old,</hi> and <hi>The good Old Cauſe,</hi> only in theſe reſpects; which render it moſt deſperately <hi>Wicked, Ill,</hi> and <hi>New,</hi> totally inconſiſtent with, profeſ<g ref="char:EOLhyphen"/>ſedly repugnant to, ſubverſive of that real <hi>good Old Cauſe,</hi> wherein they firſt engaged: nere truly ſtated: Let all Officers, Soldiers of the Army, and others who have any remainders of Conſcience, Ingenuity, Honeſty, or indeared affections left in them to the Peace, Welfare, Safety, Settle<g ref="char:EOLhyphen"/>ment, fundamental Laws, Government, Parliaments, Liberties, Weal, Proſperity of our endangered, ſhaken, ſubverted Church, State, Parlia<g ref="char:EOLhyphen"/>ments; eternally renounce this <hi>Spurious Impoſture,</hi> and <hi>Gibeoni<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſh ſtrata<g ref="char:EOLhyphen"/>gem,</hi> inevitably to deſtroy them all: And remember the genuine, true, <hi>Good Old Cauſe</hi> here rightly ſtared, <note n="d" place="margin">Rev. 2. 5.</note> 
+               <hi>from whence they have fallen and repent, and do their firſt works, leſt Chriſt come upon them quickly, and remove both them, their and our Candleſtick out of its place, except they and we repent.</hi> And let all ſuch <hi>Commanders,</hi> Officers of the <hi>Army,</hi> and their Confederates, who a<g ref="char:EOLhyphen"/>gainſt their <hi>Commiſſions, Trusts, Duties, Covenants, Declarations,</hi> and <hi>Solemn Engagements,</hi> firſt mutinied the <hi>Army</hi> againſt the <hi>Houſes, &amp; Members of Parlia<g ref="char:EOLhyphen"/>ment,</hi> for the defence of whoſe Perſons, Privileges, and Seſſion they were principally raiſed; and ſecluded, ſecured the Members, diſſolved both Houſes, and the Parliament it ſelf, one after another: and have ſince bin kept and thruſt out of the Parliament Houſe, ſecured, diſſolved them<g ref="char:EOLhyphen"/>ſelves by their <hi>Fellow-Officers,</hi> and <hi>Soldiers,</hi> directly or indirectly, ſeveral times; now ſeriouſly conſider, <hi>How God hath ſcourged them with their own blackrod, and preſident of Diſobedience,</hi> &amp; <hi>taken them in their own ſnare:</hi> That (<note n="e" place="margin">Judges 1. 6, 7.</note> 
+               <hi>Adonibezeck-like) as they have done to others, ſo God hath requited them, &amp;</hi> 
+               <note n="f" place="margin">Pſ. 137. 8.</note> 
+               <hi>recompenced unto them the deed they did to us.</hi> That <note n="g" place="margin">Luke 6. 38.</note> 
+               <hi>with the ſame meaſure they meeted to others, it hath been, and ſhall be meaſured to them again.</hi> If any of them, or their Confederates, <hi>have an ear to hear, let him hear</hi> this further irreverſible Decree of the immutable God, and Soveraign Judge of all the Earth, <hi>Rev.</hi> 13. 10. <hi>He that leadeth into Captivity, ſhall go into Captivity. He that killeth with the ſword, ſhall be killed with the ſword. Here is the patience and Faith of the Saints.</hi> And if any engaged in the new fictitious, againſt the <hi>real true good old Cauſe,</hi> believe and tremble not at the conſideration thereof, he hath neither the faith nor patience of the <hi>Saints,</hi> though he uſurp and engroſs the name of a <hi>Saint</hi> to himſelf: &amp; ſhall find it experimentally veri<g ref="char:EOLhyphen"/>fied in concluſion; as many others have already done, who <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow like <hi>Fools</hi> repent too late, of what is paſt their ſkill and power to redreſs.</p>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
